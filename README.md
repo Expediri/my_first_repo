@@ -3,3 +3,5 @@ Hello world
 Hellp from GitHub
 Hello GitHub
 Super
+
+Конфликт
